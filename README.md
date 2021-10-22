@@ -1,11 +1,11 @@
 
 # Olá, eu sou David Carvalho!
 <div>
-  <a href="https://github.com/david-s-carvalho">
+  <a href="https://github.com/davidcarvalho-dev">
 </div>
-  <img height="215em"src="https://github-readme-stats.vercel.app/api?username=david-s-carvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="215em"src="https://github-readme-stats.vercel.app/api?username=davidcarvalho-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-s-carvalho&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcarvalho-dev&layout=compact&langs_count=7&theme=radical"/>
 
  <div style="display: inline_block"><br>
    <img align="center" alt="David_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,4 +22,4 @@
  <a href="mailto:davidsoares585@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/David-S-Carvalho/David-S-Carvalho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/davidcarvalho-dev/davidcarvalho-dev/blob/output/github-contribution-grid-snake.svg)
