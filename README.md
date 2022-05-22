@@ -3,8 +3,13 @@
 <div>
   <a href="https://github.com/davidcarvalho-dev">
 </div>
-  <img height="200px" margin="0" src="https://github-readme-stats.vercel.app/api?username=davidcarvalho-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200px" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcarvalho-dev&layout=compact&langs_count=7&theme=radical"/>
+  
+  <p align="center"> 
+    <img height="200px" margin="0" src="https://github-readme-stats.vercel.app/api?username=davidcarvalho-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  </p> 
+  <p align="center">
+    <img height="240px" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcarvalho-dev&layout=compact&langs_count=7&theme=radical"/> </p>
+  
   
 ## Tecnologias
  <div style="display: inline_block">
