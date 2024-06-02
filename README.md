@@ -29,9 +29,9 @@ Hello guys, David here, I'm 23 years old, I'm a back-end developer and I live in
  
 ## Contact
 <div>
-  <a href="https://www.linkedin.com/in/idavidcarvlaho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/idavidcarvalho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:davidcarvalho.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://t.me/idavidcarvlaho/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23323330.svg?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/idavidcarvalho/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23323330.svg?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 
