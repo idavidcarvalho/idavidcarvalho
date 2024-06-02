@@ -13,36 +13,25 @@ Hello guys, David here, I'm 23 years old, I'm a back-end developer and I live in
 
 
 ## Tools
-![TEAMS](https://img.shields.io/badge/Microsoft_Teams-%23323330.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23323330.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23323330.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Studying in this moment
-![.Net](https://img.shields.io/badge/.NET-%23323330.svg?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23323330.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%23323330.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23323330.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## Stats
-<p align="center">
-  
-</p>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=idavidcarvalho&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide_title=false&hide=stars" width="400"/>
-  
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavidcarvalho&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400"/>
-</p>
  
- ## Contact
+## Contact
 <div>
-  <a href="https://www.linkedin.com/in/david-carvalho-a9883517b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/idavidcarvlaho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:davidcarvalho.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/idavidcarvlaho/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23323330.svg?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 
