@@ -19,11 +19,11 @@ Hello guys, David here, I'm 23 years old, I'm a back-end developer and I live in
 
 
 ## Studying in this moment
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%23323330.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23323330.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/react_native-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)
+![Postgres](https://img.shields.io/badge/expo-%23323330.svg?style=for-the-badge&logo=expo&logoColor=white)
+![Swagger](https://img.shields.io/badge/-node_js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 
  
